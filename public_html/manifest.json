@@ -1,5 +1,11 @@
 {
- "name": "App",
+ "name": "Cudega To",
+ "short_name": "Cudega",
+ "lang": "pt-BR",
+ "start_url": "index.html",
+ "display": "standalone",
+ "theme_color": "#d3d3d3",
+ "background_color": "#3d3d3d",
  "icons": [
   {
    "src": "icons\/android-icon-36x36.png",
